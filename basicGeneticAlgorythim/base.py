@@ -28,7 +28,7 @@ for iteration in range(10000):
     print (rankedSolutions[0])
 
     if rankedSolutions[0][0] > 999:
-        break;
+        break
 
     bestSolutions = rankedSolutions[:100]
 
