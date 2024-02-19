@@ -1,0 +1,3 @@
+Add Food = False
+Randomize Start = False
+Enemy Snakes = False

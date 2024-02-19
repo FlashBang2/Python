@@ -1,0 +1,6 @@
+Number Of Games = 1
+Score Gain Per Survial = 1
+Penalty For Colliding With Itself = 0
+Score Gain Per Picking Up Food = 0 // Depends if in Game is Add Food Changed to True
+Score Per Elimination = 0 // Depends if in Game is Enemy Snakes Changed to True
+Score Per Winning = 0 // Depends if in Game is Enemy Snakes Changed to True or if in Game is Add Food Changed to True
